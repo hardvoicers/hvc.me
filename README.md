@@ -431,7 +431,6 @@
                               <div class="talking"><span class="talking-count">6406 пользователей</span> общаются анонимно.</div>
                               <div class="join">Присоединяйтесь!</div>
                            </div>
-                           <div><a href="https://play.google.com/store/apps/details?id=com.nektome.chatruletka.voice&amp;utm_source=nekto.me&amp;utm_campaign=chatruletka&amp;pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1" target="_blank"><img alt="Доступно в Google Play" src="./hardvoicers.me_files/gplaybtn.webp" width="140" style="margin-right: 5px;"></a><a href="https://nekto.me/ios-chat-ruletka" target="_blank"><img alt="Доступно в AppStore" src="./hardvoicers.me_files/appstore_btn.webp" width="140"></a></div>
                         </div>
                      </div>
                   </div>
